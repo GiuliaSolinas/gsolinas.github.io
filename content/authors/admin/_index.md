@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Dr. Giulia Solinas
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Giulia (Julia)
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Giulia
+last_name: Solinas
 
 # Status emoji
 status:
@@ -20,11 +20,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Data Scientist and Mum
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
+  - name: CROZ
     url: https://openai.com/
 
 # Social network links
@@ -144,10 +144,10 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Italian
+    percent: 100
+  - name: German
+    percent: 80
 
 # Awards.
 #   Add/remove as many awards below as you like.
